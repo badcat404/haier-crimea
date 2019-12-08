@@ -1,0 +1,213 @@
+/* =================================================================== */
+/* Forex color #005aaa;
+====================================================================== */
+
+a, a:visited,
+#not-found i,
+.comment-by span.reply a:hover,
+.comment-by span.reply a:hover i,
+.categories a:hover,
+.testimonials-author,
+.happy-clients-author,
+.dropcap,
+.team-name h5:hover,
+.meta ul li a:hover,
+.list-1 li:before,
+.list-2 li:before,
+.list-3 li:before,
+.list-4 li:before  { color: #005aaa; }
+
+.circle-featured i {
+	color: #005aaa; 
+}
+
+.shop figcaption {
+	color: #005aaa; 
+}
+
+.shop figcaption a {
+	background: #005aaa; 
+}
+
+input.search-blog {
+	border: thin solid #005aaa; 
+}
+
+.grid figcaption {
+	color: #005aaa; 
+}
+
+
+.grid figcaption a {
+	background: #005aaa; 
+}
+
+
+#current,
+.menu ul li a:hover,
+.menu ul > li:hover > a,
+.flickr-widget-blog a:hover { border-color: #005aaa;  }
+.menu ul ul { border-top-color: #005aaa;  }
+
+.tp-leftarrow:hover,
+.tp-rightarrow:hover,
+.flexslider .flex-next:hover,
+.flexslider .flex-prev:hover,
+.featured-box:hover > .circle,
+.featured-box:hover > .circle span,
+.featured-box:hover > .circle-2,
+.featured-box:hover > .circle-3,
+.portfolio-item:hover > figure > a .item-description,
+.sb-navigation-left:hover,
+.sb-navigation-right:hover,
+.newsletter-btn,
+.search-btn { background-color: #005aaa;  }
+
+#filters a:hover, .selected { background-color: #005aaa !important; }
+
+.premium .plan-price,
+.premium .plan-features a.button:hover { background-color: #005aaa; }
+.premium.plan h3,
+.premium .plan-features a.button { background-color: #005aaa; }
+
+.featured-box:hover > .circle-2,
+.featured-box:hover > .circle-3 { box-shadow: 0 0 0 8px rgba(115,184,25,0.3); }
+
+#current:after,
+.pagination .current,
+.pagination ul li a:hover,
+.tags a:hover,
+.button.gray:hover,
+.button.light:hover,
+.button.color,
+input[type="button"],
+input[type="submit"],
+input[type="button"]:focus,
+input[type="submit"]:focus,
+.tabs-nav li.active a,
+.ui-accordion .ui-accordion-header-active:hover,
+.ui-accordion .ui-accordion-header-active,
+.trigger.active a,
+.trigger.active a:hover,
+.skill-bar-value,
+.highlight.color,
+.notice-box:hover { background: #005aaa; }
+
+.pagination ul li > a:hover,
+.pagination ul li > span:hover,
+.pagination ul li > a:focus,
+.pagination ul li > span:focus {
+  border-color: #0f5c85;
+}
+
+.tabs-nav li a{
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #005aaa;
+}
+
+#search-form .search-text-box {
+	background-color: #005aaa;
+}
+
+.punch_text2 {
+
+}
+
+.text_headline{
+	color: #005aaa;
+	font-weight: bold;
+}
+
+#current{
+	color: #005aaa;
+}
+
+.menu ul li a:hover{
+	color: #005aaa;
+
+}
+
+.portfolio-item:hover > figure > a .item-description h5 {
+	color: #005aaa;
+}
+
+.pin-box h4 a:hover, .tline-box h4 a:hover { 
+	color: #005aaa;
+}
+
+
+.tline-topdate {
+	background: #005aaa;
+}
+
+.blog-cat li:hover h4 {
+	color: #005aaa;
+}
+
+.blog-cat li.blog-cat-done {
+  color: #005aaa;
+}
+.blog-cat li.blog-cat-done .blog-cat-name {
+  color: #005aaa;
+}
+
+
+
+blockquote {
+	border-left: 3px solid #005aaa;
+}
+
+
+.plan-price {
+	background-color: #005aaa;
+}
+
+.flat-box:hover i{
+	color: #005aaa;
+}
+
+.mi-slider nav a:hover,
+.mi-slider nav a.mi-selected {
+	color: #005aaa;
+}
+
+.shop-price{
+	color: #005aaa;
+}
+
+.shop-price-detail{
+	color: #005aaa;
+}
+
+
+
+.tline-topdate {
+	border: 1px solid #005aaa;
+}
+
+
+
+.blog-cat-title{
+	background: #005aaa;
+
+}
+
+.promo-box:hover > .circle-2 {
+	background-color: #005aaa;
+	box-shadow: 0 0 0 8px #0f5c85;
+}
+
+
+#style-switcher h2 a {
+	background: url("../../images/switcher.png") no-repeat 10px center transparent;
+	background-color: #005aaa;
+	display: block;
+	height: 43px;
+	position: absolute;
+	right: -43px;
+	text-indent: -9999px;
+	top: 0;
+	width: 43px;
+	border-radius: 0 3px 3px 0;
+}
